@@ -74,7 +74,7 @@ mypy-extensions==1.0.0
 mysqlclient==2.2.7
 nest-asyncio==1.6.0
 networkx==3.4.2
-nltk==3.9.1
+nltk==3.9.4
 numpy==2.2.2
 openai==1.61.0
 packaging==24.2
