@@ -94,7 +94,7 @@ pydantic==2.10.6
 pydantic_core==2.27.2
 Pygments==2.19.1
 PyMuPDF==1.25.2
-pypdf==5.2.0
+pypdf==6.10.2
 python-dateutil==2.9.0.post0
 pytz==2025.1
 PyYAML==6.0.2
