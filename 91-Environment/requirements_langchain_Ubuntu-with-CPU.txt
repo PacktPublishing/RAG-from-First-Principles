@@ -154,7 +154,7 @@ pdfminer.six==20240706
 pexpect==4.9.0
 pi_heif==0.21.0
 pikepdf==9.5.1
-pillow==11.1.0
+pillow==12.2.0
 platformdirs==4.3.6
 posthog==3.11.0
 prompt_toolkit==3.0.50

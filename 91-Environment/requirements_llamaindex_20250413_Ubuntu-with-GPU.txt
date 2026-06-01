@@ -147,7 +147,7 @@ pdfplumber==0.11.5
 pexpect==4.9.0
 pi_heif==0.22.0
 pikepdf==9.7.0
-pillow==11.1.0
+pillow==12.2.0
 platformdirs==4.3.6
 portalocker==2.10.1
 prompt_toolkit==3.0.50
