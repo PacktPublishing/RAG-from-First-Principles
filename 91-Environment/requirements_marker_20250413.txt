@@ -175,7 +175,7 @@ unstructured==0.16.25
 unstructured-client==0.31.1
 unstructured-inference==0.8.9
 unstructured.pytesseract==0.3.15
-urllib3==2.3.0
+urllib3==2.7.0
 webencodings==0.5.1
 wrapt==1.17.2
 xlrd==2.0.1

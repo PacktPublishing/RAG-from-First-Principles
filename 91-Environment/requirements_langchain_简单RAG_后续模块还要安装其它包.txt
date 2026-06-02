@@ -103,7 +103,7 @@ traitlets==5.14.3
 transformers==4.50.0
 typing-inspect==0.9.0
 typing_extensions==4.12.2
-urllib3==2.3.0
+urllib3==2.7.0
 wcwidth==0.2.13
 yarl==1.18.3
 zstandard==0.23.0

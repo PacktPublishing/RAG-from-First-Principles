@@ -257,7 +257,7 @@ unstructured==0.16.17
 unstructured-client==0.29.0
 unstructured-inference==0.8.7
 unstructured.pytesseract==0.3.13
-urllib3==2.3.0
+urllib3==2.7.0
 uvicorn==0.34.0
 uvloop==0.21.0
 watchfiles==1.0.4
