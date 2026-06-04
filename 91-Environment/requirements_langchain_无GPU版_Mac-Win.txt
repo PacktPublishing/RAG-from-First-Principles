@@ -227,7 +227,7 @@ soupsieve==2.6
 SpeechRecognition==3.8.1
 SQLAlchemy==2.0.37
 stack-data==0.6.3
-starlette==0.45.3
+starlette==1.0.1
 sympy==1.13.1
 tabulate==0.9.0
 tenacity==9.0.0
