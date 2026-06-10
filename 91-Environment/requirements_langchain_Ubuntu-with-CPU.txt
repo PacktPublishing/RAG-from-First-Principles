@@ -225,7 +225,7 @@ tokenizers==0.21.0
 tomli==2.2.1
 # 带有 +cpu 后缀的版本通常是发布在PyTorch自己的软件包索引上的，而不是 PyPI 官方源。
 # pip3 install torch==2.6.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-torch==2.6.0+cpu
+torch==2.7.1+cpu
 torchvision==0.21.0+cpu
 tornado==6.4.2
 tqdm==4.67.1
