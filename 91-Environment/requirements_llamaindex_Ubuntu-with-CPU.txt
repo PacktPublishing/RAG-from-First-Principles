@@ -1,7 +1,7 @@
 # 告诉 pip 在标准 PyPI 之外，也要去这个 URL 寻找包。这行通常放在文件顶部。
 --extra-index-url https://download.pytorch.org/whl/cpu
 aiohappyeyeballs==2.4.4
-aiohttp==3.11.11
+aiohttp==3.14.1
 aiosignal==1.3.2
 annotated-types==0.7.0
 anyio==4.8.0
