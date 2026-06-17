@@ -178,7 +178,7 @@ pymilvus.model==0.3.2
 PyMuPDF==1.25.2
 pynndescent==0.5.13
 pyparsing==3.2.1
-pypdf==5.2.0
+pypdf==6.13.0
 pypdfium2==4.30.1
 PyPika==0.48.9
 pyproject_hooks==1.2.0
