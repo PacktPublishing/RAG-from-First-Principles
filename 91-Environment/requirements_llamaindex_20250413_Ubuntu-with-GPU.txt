@@ -132,7 +132,7 @@ nvidia-nvjitlink-cu12==12.4.127
 nvidia-nvtx-cu12==12.4.127
 olefile==0.47
 omegaconf==2.3.0
-onnx==1.17.0
+onnx==1.22.0
 onnxruntime==1.21.0
 openai==1.61.0
 opencv-python==4.11.0.86
