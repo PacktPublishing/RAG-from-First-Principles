@@ -64,7 +64,7 @@ openai==1.68.2
 orjson==3.10.15
 packaging==24.2
 parso==0.8.4
-pillow==11.1.0
+pillow==12.3.0
 platformdirs==4.3.7
 prompt_toolkit==3.0.50
 propcache==0.3.0
