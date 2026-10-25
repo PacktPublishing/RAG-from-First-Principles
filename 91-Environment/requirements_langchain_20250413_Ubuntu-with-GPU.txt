@@ -129,7 +129,7 @@ pycparser==2.22
 pydantic==2.10.6
 pydantic_core==2.27.2
 Pygments==2.19.1
-PyJWT==2.10.1
+PyJWT==2.13.0
 PyMuPDF==1.25.2
 PyMySQL==1.1.1
 pypdf==5.2.0
