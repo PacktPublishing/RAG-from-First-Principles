@@ -5,6 +5,8 @@ torch
 pillow
 numpy
 FlagEmbedding
+# BGE-M3 needs the legacy attention-mask module missing in Transformers 5.24.0.
+transformers==5.9.0
 python-dotenv
 langchain-openai
 langchain-core
